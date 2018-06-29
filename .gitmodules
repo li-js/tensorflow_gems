@@ -1,0 +1,3 @@
+[submodule "tf_train_with_generator_in_background_queue"]
+	path = tf_train_with_generator_in_background_queue
+	url = https://github.com/li-js/tf_train_with_generator_in_background_queue
